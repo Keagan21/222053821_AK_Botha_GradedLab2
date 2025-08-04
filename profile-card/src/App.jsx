@@ -15,7 +15,7 @@ export default function App() {
         image="https://avatar.iran.liara.run/public/44"
         name="Aaron Botha"
         title="UI/UX Designer"
-        bio="keaganbotha11@gmail.com."/>
+        bio="I am a UI/UX designer that will make your website look attractive."/>
         
     </div>
    
