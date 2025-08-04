@@ -1,0 +1,19 @@
+
+.profile-card {
+  border: 1px solid grey;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px;
+  width: 250px;
+  box-shadow: 2px 2px 12px black;
+  text-align: center;
+}
+
+.profile-image {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
